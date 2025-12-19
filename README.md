@@ -1,6 +1,6 @@
 Hi 👋, I'm Wilson Rodrigues
 
-🎓 MCA Student | 💻 Web Developer | 🚀 Tech Enthusiast  
+🎓 MCA Student At SJEC Mangalore| 💻 Web Developer | 🚀 Tech Enthusiast  
 
 I am a passionate Web Developer currently pursuing MCA, with a strong interest in building real-world, user-friendly web applications. I enjoy learning new technologies and applying them through practical projects
 

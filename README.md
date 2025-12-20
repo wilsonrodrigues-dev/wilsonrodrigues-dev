@@ -32,7 +32,7 @@ I am a passionate Web Developer currently pursuing MCA, with a strong interest i
 - Problem solving (HackerRank)
 
 ## 🤝 Let’s Connect
-- 💼 LinkedIn: *(add your link)*  
+- 💼 LinkedIn:  linkedin.com/in/wilson-rodrigues-dev
 - 📧 Email: rodrigueswilson229@gmail.com
 
 ⭐ Feel free to explore my repositories and connect with me!

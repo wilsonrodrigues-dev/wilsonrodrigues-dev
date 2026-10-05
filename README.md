@@ -33,6 +33,6 @@ I am a passionate Web Developer currently pursuing MCA, with a strong interest i
 
 ## 🤝 Let’s Connect
 - 💼 LinkedIn: https://www.linkedin.com/in/wilson-rodrigues-dev
-- 📧 Email: rodrigueswilson229@gmail.com
+- 📧 Email: wilsonrodrigues.dev20@gmail.com
 
 ⭐ Feel free to explore my repositories and connect with me!
